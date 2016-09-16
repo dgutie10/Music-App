@@ -7,18 +7,19 @@
         This is going to be a list of the content in the device or the API for the streaming service. Have different categories, such as artist, song name, album. This will have to query
         an api service and parse the return to display the content. Then filter for the content that is needed.\n\n
         This will need also a textfield for the user input and linearlayout to display the list.\nn
-        The class MediaStore is needed to acces the media in the device. MediaStore.Audio will get the audio files and access all the information required to fill this view.
+        The class MediaStore is needed to access the media in the device. MediaStore.Audio will get the audio files and access all the information required to fill this view.
     </string>
     <string name="now_playing_explanation">
         This would need a response from the api to display the content of the currently playing song.\n\n
         This will need mostly a relative layout in order to display the song information on top odf a possible album art.\nn
-        The class MediaStore is needed to acces the media in the device. MediaStore.Audio will get the audio files and access all the information required to fill this view.
+        The class MediaStore is needed to access the media in the device. MediaStore.Audio will get the audio files and access all the information required to fill this view.\nn
+        MediaPlayer class would need to be used in order to control the song (play, pause, seek, etc)
     </string>
     <string name="list_explanation">
         This is going to be a list of the content in the device or the API for the streaming service. Have different categories, such as artist, song name, album. This will have to query
         an api service and parse the return to display the content.\n\n
         This will need also a textfield for the user input and linearlayout to display the list.\nn
-        The class MediaStore is needed to acces the media in the device. MediaStore.Audio will get the audio files and access all the information required to fill this view.
+        The class MediaStore is needed to access the media in the device. MediaStore.Audio will get the audio files and access all the information required to fill this view.
 
 
 
