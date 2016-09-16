@@ -17,5 +17,13 @@
         <item name="android:textSize">25dp</item>
     </style>
 
+    <style name="ButtonStyle">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:layout_width">130dp</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
 
 </resources>
