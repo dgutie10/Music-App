@@ -15,6 +15,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".SearchActivity" android:label="@string/search_activity"/>
+        <activity android:name=".ListActivity" android:label="@string/list_activity"/>
+        <activity android:name=".NowPlayingActivity" android:label="@string/now_playing_activity"></activity>
     </application>
 
 </manifest>
